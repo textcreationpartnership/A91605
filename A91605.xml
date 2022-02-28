@@ -1,0 +1,268 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Quakers complaint against George Keith, humbly presented to the clergy of the Church of England, who have lately receiv'd him into their communion, and suffer'd him to preach in their pulpits With some reasons why the people called Quakers have excommunicated George Keith, &amp;c. clearing them from the aspersions cast upon them by him.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91605</idno>
+            <idno type="STC">Wing Q19</idno>
+            <idno type="STC">ESTC R230134</idno>
+            <idno type="EEBO-CITATION">99895922</idno>
+            <idno type="PROQUEST">99895922</idno>
+            <idno type="VID">153504</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91605)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153504)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2368:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Quakers complaint against George Keith, humbly presented to the clergy of the Church of England, who have lately receiv'd him into their communion, and suffer'd him to preach in their pulpits With some reasons why the people called Quakers have excommunicated George Keith, &amp;c. clearing them from the aspersions cast upon them by him.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed and sold by the booksellers of London and Westminster,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Keith, George, 1639?-1716 --  Early works to 1800.</term>
+               <term>Society of Friends --  Controversial literature --  Early works to 1800.</term>
+               <term>Excommunication --  Society of Friends --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153504:1"/>
+            <pb facs="tcp:153504:1" rendition="simple:additions"/>
+            <p>THE Quakers Complaint AGAINST <hi>GEORGE KEITH,</hi> Humbly Preſented to the CLERGY OF THE Church of <hi>England,</hi> Who have Lately Receiv'd him into their <hi>Communion,</hi> and ſuffer'd him to Preach in their <hi>Pulpits.</hi>
+            </p>
+            <p>WITH SOME REASONS WHY THE People called <hi>Q<g ref="char:V">Ʋ</g>AKERS</hi> HAVE Excommunicated <hi>George Keith,</hi> &amp;c. Clearing them from the Aſperſions caſt upon them by him.</p>
+            <p>
+               <hi>London:</hi> Printed, and Sold by the Book-ſellers of <hi>London</hi> and <hi>Weſtminſter,</hi> 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153504:2"/>
+            <pb n="3" facs="tcp:153504:2"/>
+            <head>THE <hi>Quakers Complaint</hi> AGAINST George Keith, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>FRIENDS,</salute>
+            </opener>
+            <p>WHereas <hi>George Keith,</hi> when pro<g ref="char:EOLhyphen"/>feſſing himſelf to be of our Communion, yea, of the Truth it ſelf, tho' known by the People of the World by the Denomination of <hi>Quakers,</hi> did caſt (as Evidence can be brought out of his Books) ſuch Aſperſions upon Us, that its evident and demonſtrable out of our Books printed, and hereafter Quoted about the ſame time, that we ne<g ref="char:EOLhyphen"/>ver had Unity with his Doctrine; his Books held forth, <hi>That that outward Per<g ref="char:EOLhyphen"/>ſon that ſuffer'd at</hi> Jeruſalem <hi>was properly the Chriſt of God; yea, the holy Thing that was born of the Virgin</hi> Mary, <hi>was the Chriſt of God.</hi> And likewiſe he preached up that the ſame Chriſt as God and Man in
+<pb n="4" facs="tcp:153504:3"/>one Perſon is now in Heaven, and from thence ſhall come to Judge the World, and at whoſe coming the Dead in the Graves ſhall be raiſed.</p>
+            <p>O Friends, theſe Doctrins did he hold forth to us, which Doctrine plucks up our ancient Teſtimony by the roots. O how were we preſſed down when we heard him preach up thoſe things which ſhall be no more again, and in a divine Senſe of what we believe, we have firm<g ref="char:EOLhyphen"/>ly and innocently held forth in our Preaching and Writings, as hereafter Quoted: That theſe Doctrins held by us, are the real Doctrins of the Truth, and theſe are our ancient Teſtimonies, yea, they are the truth; pray conſider, the truth is the truth, and it changeth not: And tho' this ſaid <hi>G. K.</hi> chargeth us to be guilty of denying the Lord that bought us; that we do not believe <hi>that outward Perſon that ſuffered at</hi> Jeruſa<g ref="char:EOLhyphen"/>lem, <hi>to be the Chriſt of God;</hi> yet Friends, O marvel not thereat, for we do declare it, and our Books do declare, that we never did believe, <hi>That the outward Per<g ref="char:EOLhyphen"/>ſon was the Chriſt, the Son of God.</hi> We own that Chriſt, the Son of the living God, who was with the Father before the World was, dwelt in that bodily Garment, and we did always declare that we could never Call that bodily Garment <hi>Chriſt;</hi> therefore we thought it neceſſary, in our Wiſdom, to take off thoſe Aſperſions that the ſaid <hi>G. K.</hi> did
+<pb n="5" facs="tcp:153504:3"/>caſt upon us, while he was of us; for tho' he boldly and zealouſly affirm'd, that we owned that holy Thing to be the Chriſt of God, in anſwer to <hi>R. G.</hi> and in his <hi>Way caſt up,</hi> yet we ſay it was not our Opinion, ſince we have known the truth. O Friends, we would declare a little of the Foundation that we held forth, when we were firſt raiſed to be a People, which will be worth your Ob<g ref="char:EOLhyphen"/>ſervation; but before we proceed, we tell you by way of Confirmation, that theſe Quotations following, which are truly Quoted out of our Books, are the Real Doctrins that We in the beginning profeſſed, and held forth; the Founda<g ref="char:EOLhyphen"/>tion that we laid was, that People might be turned inward to Chriſt with<g ref="char:EOLhyphen"/>in, and not regard a Chriſt without; we are not to mind Chriſt any more af<g ref="char:EOLhyphen"/>ter the Fleſh, nor to look for Juſtification by outward Blood, but to Chriſt in us, who is born in us, his Blood ſhed in us, Crucified in us, and offers up himſelf a living Sacrifice to God for us, by which the Wrath of God is appeaſed to us. Ah, this inward Blood; we found the Prieſts of the Nations ignorant of; and this inward Myſtery was the Founda<g ref="char:EOLhyphen"/>tion, and Object of Faith, that we turn'd People to; we did not bid them believe in Chriſt as God and Man in one Perſon without them; but we declar'd, to ſay that Chriſt is God and Man in one Perſon it is a Lye, and thus as the
+<pb n="6" facs="tcp:153504:4"/>Foundation was laid, and Truth broke forth; O, it grew and proſpered, and ſuch hath been our Eſteem for the anci<g ref="char:EOLhyphen"/>ent Teſtimony of our Elder Friends, who have born the burden and heat of the Day, and is gone before us.</p>
+            <p>
+               <hi>Firſt,</hi> Our ſoundeſt Friends never preach up Chriſt as God and Man in one Perſon now Glorified in the Heavens, to be the Object of our Faith, but only the Light within, which <hi>George Fox,</hi> the Apo<g ref="char:EOLhyphen"/>ſtle of this Age, and firſt Miniſter among us, taught us to believe was whole Chriſt God and Man, Fleſh, Blood and Bones. And we were greatly refreſhed in the Teſtimony of an ancient Miniſter of the Goſpel among us, namely <hi>Thomas Gilpin,</hi> the 22d. of the third Month, which the World calls <hi>May,</hi> at our Yearly Meeting at <hi>Gracious Street,</hi> who ſaid, that the Light within being <hi>the more ſure Word of Prophecy,</hi> it was moſt ſafe for us all to truſt to that, and not to any outward thing, by which outward Thing we know very well he not only meant the Scripture which <hi>G. F.</hi> did teach us to call Death, Duſt and Serpents Meat, but alſo, that outward Perſon which ſuffered at <hi>Jeruſalem</hi> which <hi>G. K.</hi> calls Chriſt; and, to be be plain, we are not a little offended with ſome of our Prea<g ref="char:EOLhyphen"/>chers, who now begin to contradict our ancient Teſtimony, and ſome of them (of whom we might have expected bet<g ref="char:EOLhyphen"/>ter
+<pb n="7" facs="tcp:153504:4"/>begin to contradict their own an<g ref="char:EOLhyphen"/>cient Teſtimony, preaching now Chriſt without us, too much favouring <hi>G. K.</hi>'s vain Notions, and we never uſed till of late that Truth's Adverſaries has been tampering with ſome of our Miniſters, to confeſs our Sins in our Meetings, be<g ref="char:EOLhyphen"/>cauſe we thought that we had attained to a Sinleſs Perfection.</p>
+            <p>Our great concern was to be inward<g ref="char:EOLhyphen"/>ly exerciſed by Chriſt only after the Spi<g ref="char:EOLhyphen"/>rit, for <hi>it's the Spirit that quickens, the Fleſh profits nothing;</hi> and this Fleſh our worthy ancient Miniſters taught us was that fleſhly Garment that ſuffered at <hi>Jeruſalem,</hi> that profits us nothing to be<g ref="char:EOLhyphen"/>lieve that it ſuffer'd.</p>
+            <p n="2">
+               <hi>2dly,</hi> And next to this we were great<g ref="char:EOLhyphen"/>ly concerned to cry out againſt fine Clothing, as wearing of Silk and Gold, ſuperfluous Buttons and Button-Holes, we were againſt curious Buildings, lofty Horſes, Coaches to ride in, Waiting-Men and Waiting-Maids, againſt wear<g ref="char:EOLhyphen"/>ing of Periwigs of all ſorts, and Bowing and Reſpecting of Perſons, tho' ſome now take Liberty herein, to our great Grief: And the Foundation of Qua<g ref="char:EOLhyphen"/>keriſm (which is a new Nick-name for old Chriſtianity) was thus laid. And, Friends, Truth is the ſame that ever it was, and changeth not: We are acted by the ſame Principle as ever we were; and tho' many are gone away from us, and many more are like to go off by the
+<pb n="8" facs="tcp:153504:5"/>Aſperſions <hi>George Keith</hi> and other Ad<g ref="char:EOLhyphen"/>verſaries of Truth have caſt upon us, yet a Remnant will ſtand to the ancient Teſtimomy, and take the advice given this Yearly Meeting by that worthy Miniſter <hi>T. Wilſon,</hi> not to diſpute with Truths Adverſaries, for that ſtopped the Wells from Springing, but the way to unſtop the Wells, eſpecially in younger Friends, was to read the Servant of the Lord's, <hi>George Fox</hi>'s Epiſtles, he did not bid us read <hi>Paul</hi>'s, nor <hi>Peter,</hi> nor <hi>John</hi>'s, <hi>&amp;c.</hi> (mark that.) Indeed great fear is upon us, for ſome begin to think them<g ref="char:EOLhyphen"/>ſelves wiſer than their Teachers, and run to the Steeple-Houſes, not only after <hi>George Keith,</hi> but other Prieſts, and begin to run down our ancient Teſti<g ref="char:EOLhyphen"/>mony, and ſlight <hi>George Fox</hi> and other ancient Friends Books.</p>
+            <p>And now, Friends, know, that for <hi>G. K.</hi>'s preaching up Faith in Chriſt, God-Man without us, and denying the ſuffi<g ref="char:EOLhyphen"/>ciency of the Light within to Salvation without any thing elſe; by which, as <hi>W. Penn</hi> ſaid at <hi>Ratcliffe</hi> Meeting, 1695. (<hi>when he was ſo tranſported with the Glorious Power of God, that he could not tell whether he was ſitting, ſtand<g ref="char:EOLhyphen"/>ing or kneeling when he pronounced the Sen<g ref="char:EOLhyphen"/>tence of Apoſtacy on</hi> George Keith) <hi>that</hi> this Doctrine was plucking up the. Teſ<g ref="char:EOLhyphen"/>timony of Truth by the Roots. Thus ha<g ref="char:EOLhyphen"/>ving cleared Friends from <hi>G. K.</hi>'s Aſper<g ref="char:EOLhyphen"/>ſions we ſhall conclude, deſiring you to
+<pb n="9" facs="tcp:153504:5"/>peruſe the following Quotations out of our Books, wherein you will more fully ſee our Doctrine.</p>
+            <div type="part">
+               <head>Concerning the Scriptures.</head>
+               <p>
+                  <note place="margin">
+                     <hi>W. P.</hi> in his Quaker, a new Nick-Name for old Chriſti<g ref="char:EOLhyphen"/>anity, <hi>p. 71</hi>
+                  </note>NO Command in Scripture is any farther obliging upon any Man, then as he finds a Convinction upon his Conſcience, otherwiſe Men ſhould be engaged without, if not againſt Convi<g ref="char:EOLhyphen"/>ction, a thing unreaſonable in a Man.</p>
+               <p>(Note, <hi>According to this, there can be no Sins of Ignorance.</hi>)</p>
+               <p>
+                  <note place="margin">Shield of Truth, <hi>J. P.</hi> p. <hi>11.</hi>
+                  </note>He that ſaith the Letter is the Rule and Guide of the People of God is without, feeding upon the husk, and is Ignorant of the true Light.</p>
+               <p>The Queſtion being put, whether the Quakers did eſteem their Speaking to be of as great Authority as any Chapter in the Bible.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Serious A<g ref="char:EOLhyphen"/>pology,</hi> p. 49.</note>
+                  <hi>G. W.</hi> Anſwers, That which is Spoken from the Spirit of Truth in any, is of as great Authority as the Scriptures and Chapters are, and greater.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Mene<g ref="char:punc">▪</g> Tekel,</hi> p. 22.</note>How can, or dare any ſay, without the higheſt Blaſphemy, that the Scrip<g ref="char:EOLhyphen"/>tures is the Word of God.</p>
+               <p>
+                  <note place="margin">G. F. <hi>anſ. weſt. pet.</hi> p. 30.</note>If ever you own the Prophets, Chriſts, or the Apoſtles, you will own our Wri<g ref="char:EOLhyphen"/>tings, which are given forth by the ſame Spirit and Power.</p>
+               <p>
+                  <note place="margin">E. B<hi>'s work</hi> p. 105.</note>You are in the Witchcraft, who obſerve Commands from without from the Let<g ref="char:EOLhyphen"/>ter.</p>
+               <p>
+                  <pb n="10" facs="tcp:153504:6"/>
+                  <note place="margin">News out of the North, written from the mouth of the Lord, from one who is na<g ref="char:EOLhyphen"/>ked, and ſtands na<g ref="char:EOLhyphen"/>ked before the Lord cloathed with Righteouſneſs, whoſe Name is not known in the World, riſen up out of the North, which was Pro<g ref="char:EOLhyphen"/>pheſied of, but now is fulfilled, called <hi>G. Fox,</hi> page <hi>14.</hi>
+                  </note>Your Original is carnal Hebrew, Greek and Latin, and your Word is carnal, the Letter and the Light is carnal, the Let<g ref="char:EOLhyphen"/>ter—Their Original is but Duſt, which is but the Leter, which is Death.—And their Goſpel is duſt <hi>Matthew, Mark, Luke</hi> and <hi>John,</hi> which is the Letter.</p>
+            </div>
+            <div type="part">
+               <head>Concerning the Trinity.</head>
+               <p>
+                  <note place="margin">
+                     <hi>G. White<g ref="char:EOLhyphen"/>head</hi> &amp;c. in <hi>Iſhmael,</hi> &amp;c. in An<g ref="char:EOLhyphen"/>ſwer to Mr. <hi>Townſ<g ref="char:EOLhyphen"/>end,</hi> p. <hi>10.</hi>
+                  </note>The Three Perſons which thou dreams of, which thou would divide out of one, like a Conjurer, are all denied, and thou ſhut up with them in perpetual dark<g ref="char:EOLhyphen"/>neſs for the Lake and Pit, for thou haſt no Scripture that mentions any ſuch things.</p>
+               <p>That frequent,<note place="margin">
+                     <hi>W. P.</hi> his Sandy Foun<g ref="char:EOLhyphen"/>dation, p. <hi>12.15.</hi>
+                  </note> but impertinent diſtin<g ref="char:EOLhyphen"/>ction, that God is One Subſtance, but Three in Perſons, or Subſiſtences—A moſt abſurd Blaſphemy— They the <hi>Tri<g ref="char:EOLhyphen"/>nitarians</hi> muſt neceſſarily conclude their Kind of Trinity a Fiction.</p>
+               <p>Its requiſite I ſhould inform the Rea<g ref="char:EOLhyphen"/>der concerning its Original: Thou maiſt aſſure thy ſelf its not from the Scripture, nor Reaſon, ſince ſo expreſly repugnant it was conceived in Ignorance, brought forth and maintained by Cruelty.</p>
+               <p>The Scriptures do not tell People of a Trinity,<note place="margin">G. Fox<hi>'s Great Miſt. p.</hi> 246.</note> nor Three Perſons, but the Com<g ref="char:EOLhyphen"/>mon-Prayer Maſs-book ſpeaks of Three
+<pb n="11" facs="tcp:153504:6"/>Perſons, brought in by the Father the Pope.</p>
+            </div>
+            <div type="part">
+               <head>Concerning Chriſt.</head>
+               <p>That the outward Perſon that ſuffer'd was properly the Son of God,<note place="margin">W. P. <hi>Ser. Apol. p.</hi> 146.</note> we utter<g ref="char:EOLhyphen"/>ly deny.</p>
+               <p>Your Imagined God beyond the Stars,<note place="margin">Sword of Lord drawn p. <hi>5.</hi>
+                  </note> and your carnal Chriſt, is utterly denied. To ſay Chriſt is God and Man in one Per<g ref="char:EOLhyphen"/>ſon, is a Lye.</p>
+               <p>The Devil was in thee,<note place="margin">G. F. <hi>Great Miſt. p.</hi> 250</note> thou ſayeſt thou art ſaved by Chriſt without thee, and ſo haſt recorded thy ſelf a Reprobate.</p>
+               <p>Faith in Chriſt's outward manifeſtati<g ref="char:EOLhyphen"/>on,<note place="margin">
+                     <hi>W. P.</hi> Qua. new Nick, p. <hi>6.</hi>
+                  </note> a deadly Poiſon theſe latter Ages has been infected with.</p>
+               <p>The Suffering of the People of God <hi>(Quakers)</hi> in this Age is more unjuſt than in the days of Chriſt,<note place="margin">E. B<hi>'s work, p.</hi> 273.</note> or the Apo<g ref="char:EOLhyphen"/>ſtles. What was done to Chriſt, or the Apoſtles, was chiefly done by a Law, and in great part by the due Execution of a Law.</p>
+               <p>The Blood of Chriſt was no more than the Blood of another Saint.<note place="margin">
+                     <hi>S. Eccle's</hi> Letter to R. <hi>Porter. G. W.</hi> Truth de<g ref="char:EOLhyphen"/>fending the Qua. p. <hi>22.</hi> p. <hi>65.</hi>
+                  </note>
+               </p>
+               <p>Chriſt's coming in the Fleſh was but a Figure. Faith in Chriſt without Men is contrary to the Apoſtles Doctrine.</p>
+               <p>
+                  <note n="*" place="margin">Serioas Apol. p. <hi>148</hi>
+                  </note>This we deny, <hi>viz.</hi> Juſtification by the Righteouſneſs which Chriſt hath fulfilled in his own Perſon for us (whol<g ref="char:EOLhyphen"/>ly without us) and boldly affirm in the name of the Lord to be the Doctrine of Devils, and an arm of the Sea of Corrup<g ref="char:EOLhyphen"/>tion,
+<pb n="12" facs="tcp:153504:7"/>which does now deluge the whole World.</p>
+               <p>Death came by actual Sin,<note place="margin">
+                     <hi>Ib.</hi> 148.</note> not impu<g ref="char:EOLhyphen"/>tative; therefore Juſtification unto Life came by actual Righteouſneſs, not im<g ref="char:EOLhyphen"/>putative.</p>
+               <p>Chriſt (in us) offereth up himſelf a living Sacrifice to God for us,<note place="margin">Light and Life, p. <hi>44.</hi>
+                  </note> by which the Wrath of God is appeaſed to us. <hi>Vindicated by</hi> G. W.</p>
+            </div>
+            <div type="part">
+               <head>Concerning Baptiſm and Supper.</head>
+               <p>
+                  <hi>I affirm,</hi>
+                  <note place="margin">W. P. <hi>Rea. agst. Rail. p.</hi> 108. 109.</note> That Circumciſion is as much in force as Water Baptiſm, and the Paſ<g ref="char:EOLhyphen"/>chal Lamb as Bread and Wine. And we can teſtifie from the ſame Spirit by which <hi>Paul</hi> Renounced Circumciſion, that they are to be rejected as not now required.</p>
+               <p>Your Baptiſm and Sacraments as you call it,<note place="margin">
+                     <hi>G. F.</hi> News out of the North, p. <hi>14</hi>
+                  </note> and all your Ordinances, and Churches, and Teaching, its <hi>Cain</hi>'s Sa<g ref="char:EOLhyphen"/>crifice. Their Sacrament, as they call it, is Carnal, Their Communion Bread Wine is the Table of Devils, and Cup of Devils.</p>
+               <p>To ſay that ſprinkling Infants with Water is Baptiſm into the Faith of Chriſt,<note place="margin">E. B. <hi>works, p.</hi> 109. 191</note> this is the Doctrine of Devils.</p>
+            </div>
+            <div type="part">
+               <head>Concerning the Reſurrection.</head>
+               <p>I do utterly deny that this Text,<note place="margin">W. P. <hi>in his Invalidity of</hi> J. Faldo <hi>vind. p.</hi> 369. 370.</note> 1 <hi>Cor.</hi> 15.44. <hi>It is ſown a natural Body, its raiſ<g ref="char:EOLhyphen"/>ed
+<pb n="13" facs="tcp:153504:7"/>a ſpiritual Body,</hi> &amp;c. is concerned in the Reſurrection of Man's carnal Body at all. But the two States of Men under the firſt and ſecond <hi>Adam,</hi> Men are ſown into the World natural, ſo are they the Sons of the firſt <hi>Adam:</hi> But they are raiſed ſpiritual through him who is the Reſurrection and the Life, and ſo are they the Sons of the ſecond <hi>Adam.</hi> Who came to raiſe up the Sons of the firſt <hi>Adam</hi> from their dead to his living; their natural to his ſpiritual Eſtate. But perhaps it will be objected that the 47th Verſe, <hi>The firſt Man is of the earth earthy;</hi> and part of the 49th Verſe, <hi>We ſhall all bear the Image of the heavenly,</hi> ſeem to imply a bodily Reſur<g ref="char:EOLhyphen"/>rection, but let the whole Verſe be con<g ref="char:EOLhyphen"/>ſidered, and we ſhall find no ſuch thing, <hi>&amp;c.</hi>
+               </p>
+               <p>The Apoſtle (1 <hi>Cor.</hi> 15.44.) does not ſay, The natural is made a ſpiritual Bo<g ref="char:EOLhyphen"/>dy,<note place="margin">
+                     <hi>T. Ell<g ref="char:EOLhyphen"/>wood</hi> in his Anſ. to <hi>G. K</hi>'s 1st. Narrative, p. <hi>149.</hi>
+                  </note> or the natural Body and the ſpiri<g ref="char:EOLhyphen"/>tual Body is one and the ſame Body; but he ſets them in oppoſition, as two diſtinct Bodies. The Body that is put in the Grave is a natural Body; but the Body that's raiſed is a ſpiritual Body. And that none might think this ſpiritual Body was the ſame, he adds, <hi>There is a natural Body, and there is a ſpiritual Body.</hi>
+               </p>
+               <p>If a thing can be the ſame,<note place="margin">Rea. agst. Rail. p. <hi>134</hi>
+                  </note> and not withſtanding changed, for ſhame let us never make ſo much ſtir againſt the Do<g ref="char:EOLhyphen"/>ctrine of Tranſubſtantion, for the Ab<g ref="char:EOLhyphen"/>ſurdity
+<pb n="14" facs="tcp:153504:8"/>of it is rather outdone than equal<g ref="char:EOLhyphen"/>led by this carnal Reſurrection.</p>
+            </div>
+            <div type="part">
+               <head>Concerning Chriſt's coming to Judg<g ref="char:EOLhyphen"/>ment.</head>
+               <p>What is that Glory of the Father in which Chriſt's coming is?<note place="margin">G. W. <hi>Light, Life, p.</hi> 41.</note> Is it viſible to the carnal Eye? And where is that coming to be? Is it now to be looked for outwardly? We acknowledge the ſeveral comings of Chriſt according to the Scriptures, both that in the Fleſh and that in the Spirit. But three comings of Chriſt, not only that in the Fleſh at <hi>Jeruſalem,</hi> and that in the Spirit, but al<g ref="char:EOLhyphen"/>ſo another coming in the Fleſh yet to be expected, we do not read of.</p>
+               <p>Doſt thou look for Chriſt as he was the Son of <hi>Mary</hi> to appear outwardly,<note place="margin">Id. Nat. Chriſtia<g ref="char:EOLhyphen"/>nity. <hi>29.30.</hi>
+                  </note> in a bodily Exiſtence, to ſave thee? If thou doſt, thou maiſt look till thy Eyes drop out, before thou wilt ſee ſuch an Ap<g ref="char:EOLhyphen"/>pearance of him.</p>
+               <p>And as for that,<note place="margin">Id. Brief Diſcov. of <hi>Joh. Horn,</hi> p. <hi>9.</hi>
+                  </note> 1 <hi>Theſ.</hi> 4.15. con<g ref="char:EOLhyphen"/>cerning the coming of our Lord from Heaven which Men blindly put afar off; the Saints who then were alive remain<g ref="char:EOLhyphen"/>ed unto it. So their Converſation, (<hi>viz.</hi> a Heaven within them) they did not ſay their Converſation was at a diſtance, above the Clouds, from whence you look for a Chriſt.</p>
+            </div>
+            <div type="part">
+               <pb n="15" facs="tcp:153504:8"/>
+               <head>Concerning Heaven and Hell.</head>
+               <p>There is none have a Glory and a Heaven but within them.<note place="margin">G. F. <hi>Miſt. p.</hi> 214.</note>
+               </p>
+               <p>To deny the Locality of Heaven and Hell not very offenſive,<note place="margin">
+                     <hi>W. P.</hi> Re<g ref="char:EOLhyphen"/>joiced, (viz. p. <hi>179.</hi>
+                  </note> and it looks too Carnal and indeed Mahometan <hi>(viz. to aſſert it.)</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Concerning the National Miniſtery.</head>
+               <p>The Idle Gormandizing Prieſt of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> run away with One hundred thou<g ref="char:EOLhyphen"/>ſand and fifty Pounds a Year under pre<g ref="char:EOLhyphen"/>tence of God's Miniſters.<note place="margin">W. P. <hi>Guide mi<g ref="char:EOLhyphen"/>ſtaken,</hi> p. 18.</note>—No ſort of People have been ſo univerſally through Ages, the very Bane of Soul and Body of the Univerſe, as that abominable Tribe (of Prieſts) for whom the Thea<g ref="char:EOLhyphen"/>tre of God's moſt dreadful Vengeance is reſerved, to Act their Eternal Tragedy upon.</p>
+            </div>
+            <div type="part">
+               <head>Concerning the Diſſenting Miniſtery.</head>
+               <p>An Ill-bred Pedantick Crew,<note place="margin">W. Pen<hi>'s Quaker a new Nick<g ref="char:EOLhyphen"/>name,</hi> &amp;c. p. 165.</note> the Bane of Religion, and Peſt of the World, the old Incendiaries to Miſchief, and the beſt to be ſpared of Mankind: Againſt whom the boiling Vengeance of an Ir<g ref="char:EOLhyphen"/>ritated God is ready to be pour'd out.</p>
+               <p>And we have nothing for them <hi>(the Clergy)</hi> but Woes and Plagues,<note place="margin">W. P. <hi>Se<g ref="char:EOLhyphen"/>rious Apolo<g ref="char:EOLhyphen"/>gy,</hi> p. 156.</note> who have made Drunk the Nations, and laid
+<pb n="16" facs="tcp:153504:9"/>them to ſleep on Downy Beds of ſoft Sin-pleaſing Principles, while they have cut their Purſes and pick'd their Pockets. Tophets prepared for them to Act their Eternal Tragedy upon, whoſe Scenes will be renewed, direful anguiſhing Woes, an Eternal Irreconcileable Ju<g ref="char:EOLhyphen"/>ſtice.</p>
+               <p>The Quakers are in the Truth, and none but they. <hi>Quakers Chall.</hi> p. 3.</p>
+               <p>His <hi>(meaning the Lord's)</hi> Sons and Daughters <hi>(that's the Quakers)</hi> are going abroad joyfully in the Power and Strength of the Almighty.—Howl, Woe and Miſery, all ye Prieſts, ye blind Prieſts.—All Nations and Languages, Tongues, and Kindreds and People, tremble before the Lord's Hoſt, and the Lord's Army. <hi>News out of the North, by</hi> G. F. p. 28.</p>
+               <p>
+                  <hi>None of theſe Quotations above are yet Retracted by the Quakers.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153504:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
